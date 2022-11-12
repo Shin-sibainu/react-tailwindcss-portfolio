@@ -74,32 +74,144 @@ function App() {
               Reiciendis, velit?
             </p>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
-              unde ab rerum quos corporis, fugit error accusamus, sed ipsum
-              perferendis porro dolore asperiores id accusantium saepe nam quae
-              minus maxime?
+              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta,
+              ad debitis praesentium quis dolore adipisci deleniti. Fugit non
+              magni dolorem! Facere debitis rerum qui ut fuga, ullam, ad vitae
+              explicabo et ipsa amet consequatur ipsum iure quibusdam numquam
+              illo ipsam reiciendis rem sapiente architecto exercitationem,
+              labore quaerat. Dolore numquam quam repellendus saepe culpa
+              distinctio maiores soluta, pariatur quae alias velit nisi
+              corrupti, quod magnam eius. Necessitatibus architecto nobis ipsa,
+              excepturi voluptatibus eum velit cum sequi possimus harum sunt
+              commodi cumque sint. Enim tempora minima sapiente omnis, qui
+              facilis! Sequi, ab ut facere excepturi molestias ipsa, reiciendis
+              quisquam, sed eos magni aliquid explicabo. Est vel sequi cum ipsa
             </p>
           </div>
-          <div className="flex">
-            <div>
-              <div>
-                <div>
-                  <svg
-                    fill="none"
-                    stroke="currentColor"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    className="w-5 h-5"
-                    viewBox="0 0 24 24"
-                  >
-                    <path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
-                  </svg>
-                  <h2>Web Developer</h2>
-                  <div>
-                    <p></p>
-                    <a href=""></a>
+          <div className="flex -m-4">
+            <div className="md:w-1/3 p-4">
+              <div className="bg-gray-100 h-full p-8 rounded-lg">
+                <div className="flex items-center mb-3">
+                  <div className="bg-green-500 text-white rounded-full w-8 h-8 flex justify-center items-center mr-3">
+                    <svg
+                      fill="none"
+                      stroke="currentColor"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="2"
+                      className="w-5 h-5"
+                      viewBox="0 0 24 24"
+                    >
+                      <path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
+                    </svg>
                   </div>
+                  <h2 className="text-gray-900 text-lg font-medium">
+                    Web Developer
+                  </h2>
+                </div>
+                <div className="#">
+                  <p className="leading-relaxed text-base">
+                    Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                    Molestiae, laudantium?.
+                  </p>
+                  <a href="#" className="mt-3 text-green-500 flex items-center">
+                    もっと見る
+                    <svg
+                      fill="none"
+                      stroke="currentColor"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="2"
+                      className="w-4 h-4 ml-2"
+                      viewBox="0 0 24 24"
+                    >
+                      <path d="M5 12h14M12 5l7 7-7 7"></path>
+                    </svg>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className="md:w-1/3 p-4">
+              <div className="bg-gray-100 h-full p-8 rounded-lg">
+                <div className="flex items-center mb-3">
+                  <div className="bg-green-500 text-white rounded-full w-8 h-8 flex justify-center items-center mr-3">
+                    <svg
+                      fill="none"
+                      stroke="currentColor"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="2"
+                      className="w-5 h-5"
+                      viewBox="0 0 24 24"
+                    >
+                      <path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
+                    </svg>
+                  </div>
+                  <h2 className="text-gray-900 text-lg font-medium">
+                    Web Developer
+                  </h2>
+                </div>
+                <div className="#">
+                  <p className="leading-relaxed text-base">
+                    Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                    Molestiae, laudantium?.
+                  </p>
+                  <a href="#" className="mt-3 text-green-500 flex items-center">
+                    もっと見る
+                    <svg
+                      fill="none"
+                      stroke="currentColor"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="2"
+                      className="w-4 h-4 ml-2"
+                      viewBox="0 0 24 24"
+                    >
+                      <path d="M5 12h14M12 5l7 7-7 7"></path>
+                    </svg>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className="md:w-1/3 p-4">
+              <div className="bg-gray-100 h-full p-8 rounded-lg">
+                <div className="flex items-center mb-3">
+                  <div className="bg-green-500 text-white rounded-full w-8 h-8 flex justify-center items-center mr-3">
+                    <svg
+                      fill="none"
+                      stroke="currentColor"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="2"
+                      className="w-5 h-5"
+                      viewBox="0 0 24 24"
+                    >
+                      <path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
+                    </svg>
+                  </div>
+                  <h2 className="text-gray-900 text-lg font-medium">
+                    Web Developer
+                  </h2>
+                </div>
+                <div className="#">
+                  <p className="leading-relaxed text-base">
+                    Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                    Molestiae, laudantium?.
+                  </p>
+                  <a href="#" className="mt-3 text-green-500 flex items-center">
+                    もっと見る
+                    <svg
+                      fill="none"
+                      stroke="currentColor"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="2"
+                      className="w-4 h-4 ml-2"
+                      viewBox="0 0 24 24"
+                    >
+                      <path d="M5 12h14M12 5l7 7-7 7"></path>
+                    </svg>
+                  </a>
                 </div>
               </div>
             </div>
